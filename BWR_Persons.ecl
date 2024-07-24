@@ -1,0 +1,2 @@
+IMPORT $;
+OUTPUT($.Persons)
